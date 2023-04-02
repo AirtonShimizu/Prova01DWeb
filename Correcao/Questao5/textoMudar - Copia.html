@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alterar Texto</title>
+</head>
+<body>
+	<h1>Alterar Texto</h1>
+	<button onclick="alterarTexto()">Clique Aqui</button>
+	<p id="texto">Texto Original</p>
+
+	<script>
+		function alterarTexto() {
+			// Recupera o elemento de texto
+			var elemento = document.getElementById("texto");
+
+			// Altera o texto do elemento
+			elemento.innerHTML = "Novo Texto";
+		}
+	</script>
+</body>
+</html>

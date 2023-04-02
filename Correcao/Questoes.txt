@@ -1,0 +1,32 @@
+Questão 01 - Crie uma página HTML contendo um título com o seu nome completo, um parágrafo de texto 
+contando sobre sua cidade natal e uma imagem de sua cidade natal. Além disso, insira na imagem um 
+link que direcione para a página de sua cidade na Wikipedia. Certifique-se de usar tags HTML apropriadas para cada elemento.
+
+Dica: Use as tags <html>, <head>, <title>, <body>, <h1>, <p>, <img> e <a> para criar sua página. 
+Certifique-se de incluir o atributo "src" para a tag <img> e o atributo "href" para a tag <a> para que a imagem e o link funcionem corretamente.
+
+Questão 02 - Além de criar a página HTML solicitada na questão anterior, agora adicione uma folha de 
+estilo CSS externa que modifique a cor de fundo do título e do parágrafo para amarelo e aumente o
+ tamanho da fonte do título em 30 pixels. Também modifique a posição da imagem para ficar alinhada
+ à direita da página e aplique uma borda de 2 pixels com uma cor de sua escolha.
+
+Dica: Crie uma nova folha de estilo CSS externa usando a tag <link> no cabeçalho da página HTML 
+para referenciar o arquivo CSS. Em seguida, use seletores CSS apropriados para aplicar as alterações 
+de estilo. Use as propriedades "background-color", "font-size", "float", "border" e "text-align" para modificar o estilo dos elementos HTML.
+
+Questão 03 - Crie uma página HTML com o Bootstrap que contenha um formulário com dois campos de entrada de texto, 
+um para o nome e outro para o sobrenome. Também inclua um botão "Enviar".
+
+Quando o usuário clicar no botão "Enviar", verifique se os campos de nome e sobrenome estão preenchidos. Se ambosos 
+campos estiverem preenchidos, exiba uma mensagem de boas-vindas com o nome completo do usuário em um alerta na tela. 
+Caso contrário, exiba uma mensagem de erro indicando que ambos os campos são obrigatórios.
+
+Use JavaScript para implementar essa funcionalidade. Também é possível usar CSS Bootstrap para estilizar o formulário e
+ o alerta na tela.
+
+Questão 04 - Crie uma página HTML que contenha um campo de entrada de texto para que o usuário insira um número e um botão "Verificar". 
+Quando o usuário clicar no botão "Verificar", verifique se o número inserido é par ou ímpar. Exiba o resultado em um alerta na tela. 
+Use JavaScript para implementar essa funcionalidade.
+
+Questão 05 - Crie uma página HTML que contenha um botão e um elemento de texto que será alterado.  Quando o usuário clicar no botão, 
+mude o texto no elemento selecionado. Use JavaScript para implementar essa funcionalidade.
